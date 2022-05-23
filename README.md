@@ -1,3 +1,3 @@
 Visit
 
-https://my-json-server.typicode.com/<username>/<repo-name>/
+https://my-json-server.typicode.com/alebrait/mockdb/
